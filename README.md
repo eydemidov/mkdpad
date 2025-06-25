@@ -1,3 +1,17 @@
+# Mkdpad
+
+This is an experimental prototype of a Markdown editor that has non-intrusive AI features, that help you write in your own words but without writing for you.
+
+Uses Vim motions in the editor.
+
+Planned features:
+
+* Model tuned for giving good advice on English writing and rearranging the text quickly, but *without* writing it for you.
+* Ability to select desired style and writing guide.
+* Ability to select between American and British English.
+* Convenient keyboard-only navigation.
+* Ability to save documents.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
